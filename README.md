@@ -1,3 +1,5 @@
 # stock-ticker
 
-Stock Ticker project code
+A portable real-time stock price tracker
+
+![Stock Ticker image](stock_ticker_image.png)
